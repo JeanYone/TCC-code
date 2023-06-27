@@ -1,1 +1,8 @@
-
+@misc{Jean2023,
+    author = {José, Jean},
+    title = {TCC program},
+    year = {2023},
+    publisher = {GitHub},
+    journal = {Github repository}
+    howpublished = {\Url{https://github.com/JeanYone/TCC-code/tree/main}}
+} 
